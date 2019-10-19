@@ -1,4 +1,4 @@
-from sqlite import db_connector
+from sqlite.sqlite import db_connector
 from urllib.request import urlopen
 from urllib import request
 import requests
